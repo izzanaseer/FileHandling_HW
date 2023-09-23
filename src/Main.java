@@ -25,7 +25,8 @@ public class Main {
                     System.out.println();
                 }
             }
-        } catch (IOException e) {
+        }
+        catch (IOException e) {
             e.printStackTrace();
         }
     }
